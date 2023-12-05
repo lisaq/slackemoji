@@ -12,6 +12,8 @@ Party Parrot Gif Maker: imgflip.com/gif-maker/170901368/Party-Parrot
 
 Party Parrot as a Service: parrotify.github.io/
 
+MakeEmoji: https://makeemoji.com/
+
 EZgif: ezgif.com
 
 
